@@ -18,7 +18,7 @@ Additionally we will need to ability to manipulate some of the lookup tables / d
 
 This repository contains a few files that we can use to begin our conversation.
 
-First there is the official Tri-tech documentation for their import that lists the available tables and fields, the majority of which we would like to include in any API (amazon_ascii_layout_v1.xls)
+First there is the official Tri-tech documentation for their import that lists the available tables and fields, the majority of which we would like to include in any API ([amazon_ascii_layout_v1.xls](https://github.com/hsihealth/tritech_integration/blob/master/amazon_ascii_layout_v1.xls)
 
 Second, there is my list of tables (taken partly from the prior file) that lists the transactional and reference tables I think we would need to complete the API. (needed_read_write_tables.md)
 
