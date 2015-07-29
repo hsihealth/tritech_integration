@@ -1,8 +1,8 @@
-#HSI/Medlert Tri-Tech API
+#Syncordia/Medlert Tri-Tech API
 
 ### Overview
 
-HSI will be creating a suite of integrated efficiency and performance optimized web applications to improve our billing processes. At the same time we wish to leverage our existing investment in Tri-Tech Billing. 
+Syncordia will be creating a suite of integrated efficiency and performance optimized web applications to improve our billing processes. At the same time we wish to leverage our existing investment in Tri-Tech Billing. 
 
 For this to be possible, we must be able to enhance our existing read-only interfaces with Tri-Tech Resolve Billing to include Write capabilities as well so that our custom applications can fully interact with claims hosted in Tri-Tech Resolve Billing without the need for human intervention.
 
