@@ -22,5 +22,5 @@ First there is the official Tri-tech documentation for their import that lists t
 
 Second, there is my list of tables (taken partly from the prior file) that lists the transactional and reference tables I think we would need to complete the API. ([needed_read_write_tables.md](https://github.com/hsihealth/tritech_integration/blob/master/needed_read_write_tables.md))
 
-Finally, for reference, there is the set of SQL scripts we currently use in our existing read only integration with Tri-Tech - this should give you a detailed picture of what data we are using and how we are using it. (existing_read_only_queries.md)
+Finally, for reference, there is the set of SQL scripts we currently use in our existing read only integration with Tri-Tech - this should give you a detailed picture of what data we are using and how we are using it. ([existing_read_only_queries.md](https://github.com/hsihealth/tritech_integration/blob/master/existing_read_only_queries.md))
 
